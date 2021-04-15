@@ -1,0 +1,5 @@
+C:\Users\Ariosto\documents\works\dio-bank\obj\Debug\net5.0\Dio-Bank.csprojAssemblyReference.cache
+C:\Users\Ariosto\documents\works\dio-bank\obj\Debug\net5.0\Dio-Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariosto\documents\works\dio-bank\obj\Debug\net5.0\Dio-Bank.AssemblyInfoInputs.cache
+C:\Users\Ariosto\documents\works\dio-bank\obj\Debug\net5.0\Dio-Bank.AssemblyInfo.cs
+C:\Users\Ariosto\documents\works\dio-bank\obj\Debug\net5.0\Dio-Bank.csproj.CoreCompileInputs.cache
