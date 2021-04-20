@@ -1,8 +1,8 @@
-namespace dio_bank
+namespace Dio_Bank
 {
     public enum TipoConta
     {
-      PessoaFisica = 1;
-      PessoaJuridica = 2;
+        PessoaFisica = 1,
+        PessoaJuridica = 2
     }
 }

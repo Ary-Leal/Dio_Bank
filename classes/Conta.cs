@@ -1,11 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Dio_Bank.Enum;
 
-namespace Dio_Bank.Classes
+namespace Dio_Bank
 {
-    public class Conta
+     class Conta
     {
         private TipoConta TipoConta { get; set; }
 
@@ -20,11 +19,21 @@ namespace Dio_Bank.Classes
         public Conta(TipoConta tipoConta, double saldo, double credito, string nome, TipoConta TipoConta)
         {
 
+            this.TipoConta = tipoConta;
+            this.Saldo = saldo;
+            this.Credito = credito;
+            this.Nome = nome; 
+           
+        }
+
+        public Conta(TipoConta tipoConta, double saldo, double credito, string nome)
+        {
             TipoConta = tipoConta;
             Saldo = saldo;
             Credito = credito;
             Nome = nome;
         }
+
         public bool Sacar(double ValorSaque)
         {
             //validacao do saldo insuficiente
@@ -35,6 +44,7 @@ namespace Dio_Bank.Classes
                 return false;
             }
             Saldo -= ValorSaque;
+
             Console.WriteLine("saldo atual da conta e {0} e {1}", Nome, Saldo);
             return true;
         }

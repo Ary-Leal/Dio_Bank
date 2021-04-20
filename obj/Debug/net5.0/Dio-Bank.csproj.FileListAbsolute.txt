@@ -3,3 +3,14 @@ C:\Users\Ariosto\documents\works\dio-bank\obj\Debug\net5.0\Dio-Bank.GeneratedMSB
 C:\Users\Ariosto\documents\works\dio-bank\obj\Debug\net5.0\Dio-Bank.AssemblyInfoInputs.cache
 C:\Users\Ariosto\documents\works\dio-bank\obj\Debug\net5.0\Dio-Bank.AssemblyInfo.cs
 C:\Users\Ariosto\documents\works\dio-bank\obj\Debug\net5.0\Dio-Bank.csproj.CoreCompileInputs.cache
+C:\Users\Ariosto\documents\works\dio-bank\bin\Debug\net5.0\Dio-Bank.exe
+C:\Users\Ariosto\documents\works\dio-bank\bin\Debug\net5.0\Dio-Bank.deps.json
+C:\Users\Ariosto\documents\works\dio-bank\bin\Debug\net5.0\Dio-Bank.runtimeconfig.json
+C:\Users\Ariosto\documents\works\dio-bank\bin\Debug\net5.0\Dio-Bank.runtimeconfig.dev.json
+C:\Users\Ariosto\documents\works\dio-bank\bin\Debug\net5.0\Dio-Bank.dll
+C:\Users\Ariosto\documents\works\dio-bank\bin\Debug\net5.0\ref\Dio-Bank.dll
+C:\Users\Ariosto\documents\works\dio-bank\bin\Debug\net5.0\Dio-Bank.pdb
+C:\Users\Ariosto\documents\works\dio-bank\obj\Debug\net5.0\Dio-Bank.dll
+C:\Users\Ariosto\documents\works\dio-bank\obj\Debug\net5.0\ref\Dio-Bank.dll
+C:\Users\Ariosto\documents\works\dio-bank\obj\Debug\net5.0\Dio-Bank.pdb
+C:\Users\Ariosto\documents\works\dio-bank\obj\Debug\net5.0\Dio-Bank.genruntimeconfig.cache
